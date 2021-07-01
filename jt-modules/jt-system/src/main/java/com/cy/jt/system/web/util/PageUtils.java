@@ -17,10 +17,12 @@ public class PageUtils {
          //基于请求对象获取请求中的参数(....)
          String pageCurrentStr=request.getParameter("pageCurrent");
          String pageSizeStr=request.getParameter("pageSize");
-         if(pageCurrentStr==null||"".equals(pageCurrentStr))
-               pageCurrentStr="1";
-         if(pageSizeStr==null||"".equals(pageSizeStr))
-               pageSizeStr="3";
+         if(pageCurrentStr==null||"".equals(pageCurrentStr)) {
+             pageCurrentStr = "1";
+         }
+         if(pageSizeStr==null||"".equals(pageSizeStr)) {
+             pageSizeStr="3";
+         }
          Integer pageCurrent=Integer.parseInt(pageCurrentStr);
          Integer pageSize=Integer.parseInt(pageSizeStr);
 
