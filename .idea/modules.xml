@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jt-api/jt-api.iml" filepath="$PROJECT_DIR$/jt-api/jt-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-auth/jt-auth.iml" filepath="$PROJECT_DIR$/jt-auth/jt-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-cloud.iml" filepath="$PROJECT_DIR$/jt-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-commons/jt-common-basic/jt-common-basic.iml" filepath="$PROJECT_DIR$/jt-commons/jt-common-basic/jt-common-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-commons/jt-commons.iml" filepath="$PROJECT_DIR$/jt-commons/jt-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-gateway/jt-gateway.iml" filepath="$PROJECT_DIR$/jt-gateway/jt-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-modules/jt-modules.iml" filepath="$PROJECT_DIR$/jt-modules/jt-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-modules/jt-portal/jt-portal.iml" filepath="$PROJECT_DIR$/jt-modules/jt-portal/jt-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-modules/jt-system/jt-system.iml" filepath="$PROJECT_DIR$/jt-modules/jt-system/jt-system.iml" />
+    </modules>
+  </component>
+</project>

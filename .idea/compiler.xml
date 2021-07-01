@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jt-portal" />
+        <module name="jt-system" />
+        <module name="jt-gateway" />
+        <module name="jt-common-basic" />
+        <module name="jt-api" />
+        <module name="jt-auth" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jt-api" target="1.5" />
+      <module name="jt-auth" target="1.5" />
+      <module name="jt-cloud" target="1.5" />
+      <module name="jt-common-basic" target="1.5" />
+      <module name="jt-commons" target="1.5" />
+      <module name="jt-gateway" target="1.5" />
+      <module name="jt-modules" target="1.5" />
+      <module name="jt-portal" target="8" />
+      <module name="jt-system" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
